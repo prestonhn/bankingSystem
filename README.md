@@ -1,4 +1,5 @@
 # Banking System
+Python-based banking system that leverages OOD principles such as encapsulation and abstraction to create a user authentication mechanism that provides different functionalities based on role (admin or customer)
 
 # Summary: 
 
