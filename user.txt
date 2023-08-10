@@ -1,0 +1,5 @@
+Username,Password,UserType,Address,AccountType,Other Info
+Arthur,123,admin,N/A
+Boris,ABC,customer,10 London Road,Current account,overdraft limit: 100, balance: 1000
+Chloe,1+x,
+ 
